@@ -1,4 +1,4 @@
-FROM alpine:3.16.2
+FROM alpine:3.18.6
 
 # amd64/arm64
 ARG ARCH
