@@ -13,7 +13,7 @@
     "@element-plus/icons": "0.0.11",
     "@vue/composition-api": "^1.6.2",
     "axios": "^0.21.1",
-    "codemirror": "^5.65.5",
+    "codemirror": "^6.0.0",
     "crypto-js": "^4.1.1",
     "echarts": "^5.1.1",
     "element-ui": "^2.15.6",
